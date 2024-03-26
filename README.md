@@ -9,3 +9,5 @@ This project is a vehicle counter that uses OpenCV and YOLO for vehicle detectio
 - Vehicle Tracking: Each detected vehicle is assigned a unique tracker ID for tracking its movement.
 - Vehicle Counting: The application counts the total number of vehicles passing through a specified region.
 
+[![Car_Count_Detection video]](https://github.com/Manjul1225/Car_Count_detection_System/blob/main/Run.mp4)
+
